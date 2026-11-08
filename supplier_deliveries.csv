@@ -1,0 +1,31 @@
+delivery_id,supplier_name,item,quantity,unit_cost,delivery_date
+1,Valley Dairy Co.,Whole Milk (1 gal),4,4.25,2026-01-24
+2,Desert Bloom Bakery,Banana Bread Slice,10,1.10,2026-01-29
+3,Valley Dairy Co.,Oat Milk (1/2 gal),28,3.90,2026-01-30
+4,Blue Ridge Roasters,Decaf Beans (5 lb),36,40.00,2026-02-03
+5,Blue Ridge Roasters,House Blend Beans (5 lb),38,38.00,2026-02-04
+6,Valley Dairy Co.,Oat Milk (1/2 gal),37,3.90,2026-02-05
+7,Sweet Drop Syrups,Caramel Syrup (750 ml),13,8.95,2026-02-09
+8,Blue Ridge Roasters,House Blend Beans (5 lb),39,38.00,2026-02-11
+9,"Harlow, Reed & Sons",12 oz Paper Cups (case),14,28.75,2026-02-18
+10,Valley Dairy Co.,Heavy Cream (1 qt),8,5.10,2026-02-20
+11,Desert Bloom Bakery,Banana Bread Slice,6,1.10,2026-02-22
+12,"Harlow, Reed & Sons",12 oz Paper Cups (case),5,28.75,2026-03-09
+13,"Harlow, Reed & Sons",12 oz Paper Cups (case),15,28.75,2026-03-23
+14,Desert Bloom Bakery,Blueberry Muffin,36,1.20,2026-04-24
+15,Desert Bloom Bakery,Butter Croissant,22,1.35,2026-04-29
+16,Desert Bloom Bakery,Blueberry Muffin,39,1.20,2026-05-08
+17,Sweet Drop Syrups,Hazelnut Syrup (750 ml),31,9.25,2026-06-19
+18,Valley Dairy Co.,Heavy Cream (1 qt),21,5.10,2026-07-11
+19,Valley Dairy Co.,Whole Milk (1 gal),13,4.25,2026-07-26
+20,"Harlow, Reed & Sons",Napkins (case),17,14.60,2026-07-27
+21,Blue Ridge Roasters,House Blend Beans (5 lb),38,38.00,2026-08-07
+22,Valley Dairy Co.,Oat Milk (1/2 gal),35,3.90,2026-08-10
+23,Desert Bloom Bakery,Blueberry Muffin,23,1.20,2026-08-15
+24,"Harlow, Reed & Sons",Napkins (case),30,14.60,2026-09-21
+25,Valley Dairy Co.,Oat Milk (1/2 gal),40,3.90,2026-10-06
+26,Blue Ridge Roasters,House Blend Beans (5 lb),9,38.00,2026-10-14
+27,Desert Bloom Bakery,Banana Bread Slice,28,1.10,2026-10-21
+28,Blue Ridge Roasters,Decaf Beans (5 lb),23,40.00,2026-10-27
+29,Blue Ridge Roasters,Decaf Beans (5 lb),33,40.00,2026-10-30
+30,Desert Bloom Bakery,Butter Croissant,4,1.35,2026-10-30

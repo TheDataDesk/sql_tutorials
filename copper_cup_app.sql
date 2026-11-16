@@ -1,6 +1,5 @@
 -- =====================================================================
 -- Copper Cup Coffee Co. - App Database (copper_cup_app)
--- The Data Desk  |  github.com/TheDataDesk
 --
 -- A second, separate database for the Copper Cup mobile app.
 -- It stores the reviews customers leave in the app. It only keeps
@@ -11,17 +10,12 @@
 -- HOW TO USE: open this file in MySQL Workbench (File > Open SQL Script),
 -- click the lightning bolt to run everything, then refresh SCHEMAS.
 -- Running it again resets this database to its original state.
--- It does not change your copper_cup database.
 -- =====================================================================
 
 DROP DATABASE IF EXISTS copper_cup_app;
 CREATE DATABASE copper_cup_app;
 USE copper_cup_app;
 
--- ---------------------------------------------------------------------
--- reviews: one row per review left in the Copper Cup app
--- customer_id -> copper_cup.customers, product_id -> copper_cup.products
--- ---------------------------------------------------------------------
 CREATE TABLE reviews (
     review_id    INT PRIMARY KEY AUTO_INCREMENT,
     customer_id  INT          NOT NULL,
